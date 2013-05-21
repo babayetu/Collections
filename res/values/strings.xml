@@ -4,5 +4,11 @@
     <string name="app_name">Collections</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="spnTestList">
+        <item>android</item>
+        <item>iOS</item>
+        <item>Windows Phone 8</item>
+        <item>BlackBerry</item>        
+    </string-array>
 
 </resources>
